@@ -1,9 +1,8 @@
 # Resistance-Identification
 Embedded Lab Arduino Project
-Description of Project:
-We will build a volatage dividor using a known reference resistor and unknow resistance whose value is to be measured.
-
-
+Solution:
+We will build a volatage dividor using a known reference resistor and unknow resistance whose value is to be measured as shown in circuit design. Then by using ohm's law
+we will be able to find the unknown resistance.
 
 
 Required Components
